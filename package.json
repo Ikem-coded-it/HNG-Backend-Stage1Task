@@ -1,0 +1,26 @@
+{
+  "name": "hng-backend-stage1task",
+  "version": "1.0.0",
+  "description": "Stage 1 task for HNG internship. An API endpoint that returns my information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ikem-coded-it/HNG-Backend-Stage1Task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ikem-coded-it/HNG-Backend-Stage1Task/issues"
+  },
+  "homepage": "https://github.com/Ikem-coded-it/HNG-Backend-Stage1Task#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
